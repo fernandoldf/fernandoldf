@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @fernandoldf
 
-- 👷‍♂️ I'm a 34-year-old civil and mechatronic engineer.
+- 👷‍♂️ I'm a 35-year-old civil and mechatronic engineer.
 - 💻 I have experience with Python, Java, C, and SQL.
 - 🌱 I'm passionate about coding and currently learning more about AI, machine learning, and game development.
 - 🎓 I'm enrolled in Computer Science at UNIMA in Maceió.
