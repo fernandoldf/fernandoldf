@@ -2,7 +2,7 @@
 
 - 👷‍♂️ I'm a civil and mechatronic engineer.
 - 💻 I have experience with Python, Java, C, and SQL.
-- 🌱 I'm passionate about coding and currently learning more about AI, machine learning, and game development.
+- 🌱 I'm passionate about coding and currently learning more about AI and machine learning.
 - 📫 How to reach me: fernandes.fernando@live.com
 
 <!---
